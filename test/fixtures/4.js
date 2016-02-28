@@ -1,0 +1,24 @@
+[
+  {
+    "propa":"a",
+    "propb":"b"
+  },
+  {
+    "propa":"a",
+    "propb":"a"
+  },
+  {
+    "propa":"c",
+    "propb":"e"
+  },
+  {
+    "propa":"a",
+    "propb":"f",
+    "propc":"b"
+  },
+  {
+    "propa":"a",
+    "propb":"f",
+    "propc":"a"
+  }
+]

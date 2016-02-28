@@ -1,0 +1,14 @@
+[
+  {
+    "testprop":"Aaaa"
+  },
+  {
+    "testprop":"Abaa"
+  },
+  {
+    "testprop":"Caaa"
+  },
+  {
+    "testprop":"Baaa"
+  }
+]
