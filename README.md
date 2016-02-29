@@ -1,4 +1,4 @@
-# grunt-json-array-sort
+# grunt-json-array-sort [![Build Status](https://travis-ci.org/gavinr/grunt-json-array-sort.svg?branch=master)](https://travis-ci.org/gavinr/grunt-json-array-sort)
 
 > Sorts an array of JSON objects, based on the key(s) you specify.
 
